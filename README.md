@@ -1,5 +1,5 @@
 # challenge-11-express.js
-A note taker that allows for users to leave a note and delete said note 
+A note taker that allows for users to leave a note and delete note when no longer needed. When client saves note, it saves to side bar. when cloent no longer needs said note, option to delete and will delete from "serve"
 
 # Screenshot
 ![image](https://user-images.githubusercontent.com/102200085/174518650-9a7f9f60-8bd0-4f1f-b5fc-997b379626d9.png)
